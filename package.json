@@ -1,0 +1,10 @@
+{
+  "name": "erc4626-tokenized-vault",
+  "version": "1.0.0",
+  "description": "ERC-4626 implementation for yield-bearing assets",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.0"
+  }
+}
